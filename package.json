@@ -1,0 +1,12 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@feathersjs/express": "^4.3.0",
+    "@feathersjs/feathers": "^4.3.0",
+    "@feathersjs/socketio": "^4.3.0",
+    "cors": "^2.8.5"
+  }
+}
